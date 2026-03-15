@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to my profile 💫
 
-<!--
-**its-koda/its-koda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=its-koda&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-koda&layout=compact&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+[![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,python,git,react)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/its-koda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:koda.dev@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/its-koda/its-koda/output/github-contribution-grid-snake.svg)
+
+---
