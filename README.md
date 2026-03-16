@@ -18,6 +18,6 @@
 
 ---
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/its-koda/its-koda/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
