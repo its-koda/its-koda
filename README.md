@@ -16,8 +16,6 @@
   </a>
 </p>
 
----
-
 ![Snake animation](https://github.com/its-koda/its-koda/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
