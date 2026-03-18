@@ -5,7 +5,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-koda&layout=compact&theme=tokyonight" />
 </p>
 
-[![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,python,git,react)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=js,html,css,python,cs,git,react)](https://skillicons.dev)
 
 <p align="left">
   <a href="https://github.com/its-koda">
