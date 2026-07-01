@@ -21,8 +21,6 @@
 
 ### 📊 My GitHub Stats | Minhas Estatísticas do GitHub
 
-Para evitar que os gráficos sumam, estamos usando uma API alternativa e mais rápida:
-
 ![its-koda's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=its-koda&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=its-koda&layout=compact&theme=tokyonight)
