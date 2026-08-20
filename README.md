@@ -17,13 +17,9 @@
   </p>
 </details>
 
----
-
-### 💻 What I Do | O Que Eu Faço
-
+<!-- Mascote Fantasminha -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Development;Automation+%26+Logic;Code+%26+Hardware+Integration;Desenvolvimento+de+Software" alt="Typing SVG" />
-</p>
+  <img src="https://camo.githubusercontent.com/384e0f23b5890790c631c10bf7a38856c73a9c1a63e75513a03501e0013b7062/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62564c655437595a61334e566f224656732f67697068792e676966" alt="Pixel Ghost" width="100">
 
 ---
 
