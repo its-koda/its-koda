@@ -17,11 +17,6 @@
   </p>
 </details>
 
-<!-- Mascote Gatinho Pixel -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nana-4/nana-4/master/Pixel_Cat/Pixel_Cat_2.gif" alt="Pixel Cat" width="130">
-</p>
-
 ---
 
 ### 🛠️ Skills | Minhas Habilidades
