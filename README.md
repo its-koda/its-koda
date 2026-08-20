@@ -17,10 +17,10 @@
   </p>
 </details>
 
-<!-- Mascote Fantasminha -->
+<!-- Hamster -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/384e0f23b5890790c631c10bf7a38856c73a9c1a63e75513a03501e0013b7062/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62564c655437595a61334e566f224656732f67697068792e676966" alt="Pixel Ghost" width="100">
-
+  <img src="https://github.com/InterstellarCoder/InterstellarCoder/raw/master/assets/hamster.gif" alt="Hamster Worker" width="100">
+</p>
 ---
 
 ### 🛠️ Skills | Minhas Habilidades
