@@ -17,9 +17,9 @@
   </p>
 </details>
 
-<!-- Hamster -->
+<!-- Mascote Hamster -->
 <p align="center">
-  <img src="https://github.com/InterstellarCoder/InterstellarCoder/raw/master/assets/hamster.gif" alt="Hamster Worker" width="100">
+  <img src="https://assets.gammastack.com/wp-content/uploads/2023/05/software-development-process.gif" alt="Coding Mascot" width="180">
 </p>
 ---
 
