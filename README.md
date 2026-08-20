@@ -19,11 +19,11 @@
 
 ---
 
-### 📊 My GitHub Stats | Minhas Estatísticas do GitHub
+### 💻 What I Do | O Que Eu Faço
 
-![its-koda's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-koda&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-koda&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Development;Automation+%26+Logic;Code+%26+Hardware+Integration;Desenvolvimento+de+Software" alt="Typing SVG" />
+</p>
 
 ---
 
