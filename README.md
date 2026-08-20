@@ -17,9 +17,9 @@
   </p>
 </details>
 
-<!-- Mascote Hamster -->
+<!-- Mascote Gatinho Pixel -->
 <p align="center">
-  <img src="https://assets.gammastack.com/wp-content/uploads/2023/05/software-development-process.gif" alt="Coding Mascot" width="180">
+  <img src="https://raw.githubusercontent.com/nana-4/nana-4/master/Pixel_Cat/Pixel_Cat_2.gif" alt="Pixel Cat" width="130">
 </p>
 ---
 
