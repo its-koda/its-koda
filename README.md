@@ -42,4 +42,4 @@
 
 ### 🐍 Contribution Snake | Gráfico de Contribuições
 
-![Snake animation](https://github-s-profile-summary-cards.vercel.app/api/svg?username=its-koda&theme=tokyonight)
+![Snake animation](https://github.com/its-koda/its-koda/raw/output/github-contribution-grid-snake-dark.svg)
