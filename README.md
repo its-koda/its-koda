@@ -21,9 +21,9 @@
 
 ### 📊 My GitHub Stats | Minhas Estatísticas do GitHub
 
-![its-koda's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=its-koda&show_icons=true&theme=tokyonight&count_private=true)
+![its-koda's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-koda&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=its-koda&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-koda&layout=compact&theme=tokyonight)
 
 ---
 
@@ -42,4 +42,4 @@
 
 ### 🐍 Contribution Snake | Gráfico de Contribuições
 
-![Snake animation](https://github.com/its-koda/its-koda/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github-s-profile-summary-cards.vercel.app/api/svg?username=its-koda&theme=tokyonight)
